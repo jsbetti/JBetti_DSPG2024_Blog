@@ -1,15 +1,14 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "JBetti_DSPG2024_Blog"
+  title: "Joseph Betti - DSPG Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme: cosmo

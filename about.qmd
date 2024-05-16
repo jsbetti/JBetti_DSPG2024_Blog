@@ -13,7 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
 About this blog
+
+Hello, my name is Joseph Betti. I am a senior majoring in Landscape Architecture at Iowa State University. I am a Young Scholar for the Data Science for Public Good.

@@ -1,0 +1,9 @@
+---
+title: "Personal Introduction"
+author: "Joseph Betti"
+date: "2024-05-16"
+categories: [news, code, analysis]
+image: "Najul.jpeg"
+---
+
+Hello, I am Joseph Betti. I am a senior in Landscape Architecture at Iowa State University. I am a young scholar for the DSPG Summer Program.
